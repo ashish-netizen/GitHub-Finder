@@ -16,7 +16,7 @@ const Header = (props)=>{
            Github Profile Seeker
            
         </h2>
-        <div className="input-group w-50 mx-auto">
+        <div className="input-group w-80 mx-auto">
           <input
             type="text"
             className="form-control"
